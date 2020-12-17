@@ -14,6 +14,7 @@ IOT can be divided into three parts.
 3.	Machine to machine
 The vision of the Internet of Things is to create a smart world. It means to create the cities, energy and transport more intelligent and, the IoT concept has become the new revolution of the Internet.  
 The concept of internet of things is based on interconnecting electronical devices together through internet to control them effectively and efficiently.  Electronic devices can be any thing like washing matching, microwave, toaster, light bulb to smart watchers, smart phones and other day to day electronic device. IoT is defined as electronics that has ability to communicate over a network without human to compute or human to human interaction and equipped with a unique identifiers code.
+
 These IoT devices work as an eco system which means several devices are interconnected to complete tasks. These devices also consist with embedded systems to collect data and transfer them to the cloud-based system or edge device system for analyzation and processing. They also use the help or matching learning algorithms and artificial intelligence to complete its processors and tasks.
 ![]({{site.baseurl}}/https://cdn.ttgtmedia.com/rms/onlineimages/iota-iot_system_mobile.png)
 
@@ -25,6 +26,7 @@ There are several uprising standards and frameworks in IoT-
 Institute of Electrical and Electronic Engineers (IEEE) has introduces ZigBee, an low powered and low data rate network with the name of 802.15.4 slandered. Dotdot is a language created for IoT with the alliance with ZinBee.
 Internet Engineering Task Force has introduced (6LoWPAN) IPV6 low power wireless personal area network as an open standard. This used Z Wave and Bluetooth low powered energy for communication 
 Object management Group (OMG) has developed (DDS) Data distribution service for high performance, scalable, real time communication.
+
 AWS IoT is a framework implemented by Amazon and it is designed to easily and securely connect IoT devices and services.
 ARM MBed IoT is developed by arm technologies and uses arm base microcontrollers. It provide easy scalability and connectivity for IoT devices
 Microsoft Azure IoT is another framework handled by Microsoft that provide special services targeted in IoT devices
