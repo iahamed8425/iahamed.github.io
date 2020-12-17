@@ -1,7 +1,0 @@
----
-published: true
----
-## Ethereum Blockchain
-
-Ethereum was initially introduces in Vitalik Buterin’s paper and indicated many restrictions of the Bitcoin’s scripting language. The aspects entail details such as: - full Turing-completeness, which indicates that Ethereum is able to maintain all other types of computations, loops included. This way the Ethereum is able to maintain the state of the transaction and develop and enhance other details over the blockchain structure. Ethereum is able to represent blockchain with the implementation of a built-in Turing-complete programming language. This is able to build an abstract layer, which helps create their own rules for ownership, transaction formats, and state transition functions as well for anyone. This procedure is executed with the involvement of smart contracts: - which are set of cryptographic rules, implemented only if certain conditions are satisfied 
-This Ethereum state is composed of many accounts, in which each account entails a 20-byte address and state transitions. The world state is regarded as a mapping, where it can map between addresses and account states. Decentralized apps also known as DAPPs is regarded as one of the most important use cases of Ethereum. Some of them include: - Golem (Supercomputing), Augur (prediction markets), Civic (identity verification and protection), OmiseGO (exchanges on a public blockchain), Storj (renting hard drive space), and many more other examples.
