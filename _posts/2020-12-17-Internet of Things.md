@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 **## What is IoT**
 
@@ -26,7 +26,4 @@ Object management Group (OMG) has developed (DDS) Data distribution service for 
 AWS IoT is a framework implemented by Amazon and it is designed to easily and securely connect IoT devices and services.
 ARM MBed IoT is developed by arm technologies and uses arm base microcontrollers. It provide easy scalability and connectivity for IoT devices
 Microsoft Azure IoT is another framework handled by Microsoft that provide special services targeted in IoT devices
-Google’s Brillo, which is developed by google has 2 parts that has android based OS and a special Communication protocol 
-
-
-
+Google’s Brillo, which is developed by google has 2 parts that has android based OS and a special Communication protocol
