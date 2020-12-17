@@ -1,7 +1,9 @@
 ---
 published: true
 ---
-**## What is IoT**
+## Evolution of the IoT Devices 
+
+
 
 IOT is a trend in the present world to communicate between machines to machine. This helps the business world to make and competitive edge by using this as a solution maker on the consumer market. Collection of data has been futurized by the help of social media platforms, big data and cloud computing making the main objective of data gathering easier impacting the IOT. (Luigi Atzori, 2016) IOT has many definitions, although the best way to explain it is an infrastructure to transport, store, process and give access to the information created to various users or systems. (Dorsemaine, 2017).
 The Internet of things concept was introduced in 1999 by one of the members who worked on developing the RFID technology. But recently the use of internet of things is increased and the IoT devices are being evolved rapidly and being engaged in industry and 
