@@ -1,3 +1,10 @@
+---
+published: true
+---
+##  Simple port scanner 
+This simple port scanner uses Python to check the status of a range of ports on a target machine. It helps determine which ports are open and listening on the target, which can be useful for network troubleshooting and security assessments.
+
+#code
 import socket
 import subprocess
 import sys
